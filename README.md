@@ -42,7 +42,7 @@ Beyond academia, I am a passionate developer and data scientist, bridging the ga
 
 | [arXivFlow](https://github.com/zjzhao1002/arXivFlow) | [S&P 500 Daily Tracker](https://github.com/zjzhao1002/YFinance-SP500-Analysis) | [ML from Scratch](https://github.com/zjzhao1002/Machine-Learning-from-Scratch) |
 | :---: | :---: | :---: |
-| 🤖 AI-driven arXiv discovery | 📈 Automated market data sync | 🧠 Core algorithms in NumPy |
+| 🤖 AI-driven arXiv discovery | 📈 Automated market data sync | 🧠 Core algorithms in ML |
 
 </div>
 
