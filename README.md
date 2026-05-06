@@ -51,9 +51,9 @@ Beyond academia, I am a passionate developer and data scientist, bridging the ga
 ### 📊 GitHub Stats
 
 <p align="center">
-  ![Stats](./profile/stats.svg)
-  ![Top Languages](./profile/top-langs.svg)
-  ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+  <img src="./profile/stats.svg" alt= "Stats">
+  <img src="./profile/top-langs.svg" alt= "Top Languages">
+  <img src="./profile/pin-readme-tools-github-readme-stats.svg" alt="Pinned">
 </p>
 
 <p align="center">
