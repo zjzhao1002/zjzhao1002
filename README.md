@@ -51,9 +51,9 @@ Beyond academia, I am a passionate developer and data scientist, bridging the ga
 ### 📊 GitHub Stats
 
 <p align="center">
-  ![Stats](./profile/stats.svg)
-  ![Top Languages](./profile/top-langs.svg)
-  ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+  ![Stats](https://github.com/zjzhao1002/zjzhao1002/tree/main/profile/stats.svg)
+  ![Top Languages](https://github.com/zjzhao1002/zjzhao1002/tree/main/profile/top-langs.svg)
+  ![Pinned](https://github.com/zjzhao1002/zjzhao1002/tree/main/profile/pin-readme-tools-github-readme-stats.svg)
 </p>
 
 <p align="center">
