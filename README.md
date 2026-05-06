@@ -51,8 +51,9 @@ Beyond academia, I am a passionate developer and data scientist, bridging the ga
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zjzhao1002&show_icons=true&theme=radical" alt="Zhijie's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjzhao1002&layout=compact&theme=radical" alt="Top Langs" />
+  ![Stats](./profile/stats.svg)
+  ![Top Languages](./profile/top-langs.svg)
+  ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 </p>
 
 <p align="center">
