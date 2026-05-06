@@ -50,14 +50,22 @@ Beyond academia, I am a passionate developer and data scientist, bridging the ga
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="./profile/stats.svg" alt= "Stats">
-  <img src="./profile/top-langs.svg" alt= "Top Languages">
-  <img src="./profile/pin-readme-tools-github-readme-stats.svg" alt="Pinned">
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="./profile/stats.svg" height="195" alt="Stats">
+      </td>
+      <td>
+        <img src="./profile/top-langs.svg" height="195" alt="Top Languages">
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zjzhao1002&theme=radical" alt="GitHub Streak" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zjzhao1002&theme=radical" alt="GitHub Streak" />
+  <img src="./profile/pin-readme-tools-github-readme-stats.svg" alt="Pinned">
 </p>
 
 ---
