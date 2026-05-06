@@ -51,24 +51,24 @@ Beyond academia, I am a passionate developer and data scientist, bridging the ga
 ### 📊 GitHub Stats
 
 <div align="center">
-  <table border="0">
+  <!-- <table border="0">
     <tr>
-      <td>
-        <img src="./profile/stats.svg" height="195" width="495" alt="Stats">
-      </td>
-      <td>
-        <img src="./profile/top-langs.svg" height="195" width="495" alt="Top Languages">
-      </td>
+      <td> -->
+        <img src="./profile/stats.svg" width="495" alt="Stats">
+      <!-- </td>
+      <td> -->
+        <img src="./profile/top-langs.svg" width="495" alt="Top Languages">
+      <!-- </td>
     </tr>
     <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=zjzhao1002&theme=radical" height="195" width="495" alt="GitHub Streak">
-      </td>
-      <td>
-        <img src="./profile/pin-readme-tools-github-readme-stats.svg" height="195" width="495" alt="Pinned">
-      </td>
+      <td> -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=zjzhao1002&theme=radical" width="495" alt="GitHub Streak">
+      <!-- </td>
+      <td> -->
+        <img src="./profile/pin-readme-tools-github-readme-stats.svg" width="495" alt="Pinned">
+      <!-- </td>
     </tr>
-  </table>
+  </table> -->
 </div>
 
 ---
