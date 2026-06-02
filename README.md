@@ -41,7 +41,7 @@ Beyond academia, I am a passionate developer and data scientist, bridging the ga
 
 <div align="center">
 
-| [arXivFlow](https://github.com/zjzhao1002/arXivFlow) | [S&P 500 Daily Tracker](https://github.com/zjzhao1002/YFinance-SP500-Analysis) | [ML from Scratch](https://github.com/zjzhao1002/Machine-Learning-from-Scratch) | [HEPARA](https://github.com/zjzhao1002/HEPARA) |
+| [arXivFlow](https://github.com/zjzhao1002/arXivFlow) | [S&P 500 Daily Tracker](https://github.com/zjzhao1002/YFinance-SP500-Analysis) | [ML from Scratch](https://github.com/zjzhao1002/Machine-Learning-from-Scratch) | [HEPARA](https://github.com/zjzhao1002/HEP-AI-Assistant) |
 | :---: | :---: | :---: | :---: |
 | 🤖 AI-driven arXiv discovery | 📈 Automated market data sync | 🧠 Core algorithms in ML | 🔬 AI research assistant for HEP |
 
