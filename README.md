@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/PhD-Elementary%20Particle%20Physics-blue?style=for-the-badge&logo=googlescholar" alt="PhD" />
   <img src="https://img.shields.io/badge/Staff-Henan%20Normal%20University-red?style=for-the-badge&logo=university" alt="University" />
   <br>
+  <a href="https://zjzhao.dev/"><img src="https://img.shields.io/badge/Portfolio-zjzhao.dev-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:zjzhao1002@gmail.com"><img src="https://img.shields.io/badge/Email-zjzhao1002%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/zhijie-zhao-6841b1269/"><img src="https://img.shields.io/badge/LinkedIn-Zhijie%20Zhao-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.kaggle.com/zjzhao1002"><img src="https://img.shields.io/badge/Kaggle-zjzhao1002-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
