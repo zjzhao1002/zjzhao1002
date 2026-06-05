@@ -63,7 +63,8 @@ Beyond academia, I am a passionate developer and data scientist, bridging the ga
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zjzhao1002&hide_border=true" width="495" alt="GitHub Streak">
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=zjzhao1002&hide_border=true" width="495" alt="GitHub Streak"> -->
+  <img src="./profile/streak.svg" width="495" alt="GitHub Streak">
 </div>
 
 <p align="center">

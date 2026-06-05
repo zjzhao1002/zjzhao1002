@@ -31,6 +31,13 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.PAT_TOKEN }}
 
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&hide_border=true
+          path: profile/streak.svg
+          token: ${{ secrets.PAT_TOKEN }}
+
       - name: Generate pin card
         uses: readme-tools/github-readme-stats-action@v1
         with:
