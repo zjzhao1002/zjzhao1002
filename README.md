@@ -68,7 +68,7 @@ Beyond academia, I am a passionate developer and data scientist, bridging the ga
 </div>
 
 <p align="center">
-  <img src="./profile/pin-stats-organization-github-stats-extended.svg" width="495" alt="Pinned">
+  <img src="./profile/pin-stats-organization-github-readme-stats.svg" width="495" alt="Pinned">
 </p>
 
 ---
