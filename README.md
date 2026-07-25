@@ -67,9 +67,9 @@ Beyond academia, I am a passionate developer and data scientist, bridging the ga
   <img src="./profile/streak.svg" width="495" alt="GitHub Streak">
 </div>
 
-<!-- <p align="center">
+<p align="center">
   <img src="./profile/pin-stats-organization-github-readme-stats.svg" width="495" alt="Pinned">
-</p> -->
+</p>
 
 ---
 
