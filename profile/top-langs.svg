@@ -229,7 +229,7 @@
           data-testid="lang-donut"
           size="0.1"
           d="M 116.66666666666671 60 A 56.66666666666667 56.66666666666667 0 0 0 116.31062184195173 60.00111855148556"
-          stroke="null"
+          stroke="#858585"
           fill="none"
           stroke-width="12">
         </path>
