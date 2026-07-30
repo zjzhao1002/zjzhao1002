@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-I am a **Junior Scientific Staff** at Henan Normal University with a PhD in **Theoretical Particle Physics** from Universität Siegen. My research focuses on:
+I am a **Junior Staff** at Henan Normal University with a PhD in **Theoretical Particle Physics** from Universität Siegen. My research focuses on:
 - 🧪 **Monte Carlo (MC) event generators**
 - 💥 **Collider phenomenology**
 - 📐 **Effective Field Theory (EFT)**
